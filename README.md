@@ -1,6 +1,6 @@
 # bonusTwitchChatScript
 
-No arquivo _script.js_ possui o código detalhado linha a linha de como fazer um script para resgatar bônus de chat na twitch!
+No arquivo _script.js_ possui o código detalhado linha a linha de como fazer um script para resgatar bônus de chat na twitch! Para utilizar, basta copiar o código que está no arquivo, abrir a live, _crtl + shift + i_ para abrir a área de desenvolvedor, vá na parte de console, cole o código na área e aperta enter.
 
 Ícone:
 
